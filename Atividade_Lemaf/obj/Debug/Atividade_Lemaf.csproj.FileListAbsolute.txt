@@ -1,0 +1,7 @@
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\bin\Debug\Atividade_Lemaf.exe.config
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\bin\Debug\Atividade_Lemaf.exe
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\bin\Debug\Atividade_Lemaf.pdb
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\obj\Debug\Atividade_Lemaf.csprojResolveAssemblyReference.cache
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\obj\Debug\Atividade_Lemaf.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\obj\Debug\Atividade_Lemaf.exe
+C:\Users\Otavio\source\repos\Atividade_Lemaf\Atividade_Lemaf\obj\Debug\Atividade_Lemaf.pdb
